@@ -2,6 +2,8 @@
     "name": "squizlabs/php_codesniffer",
     "description": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.",
     "type": "library",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "keywords": [
         "phpcs",
         "standards"
